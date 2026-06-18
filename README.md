@@ -3,10 +3,10 @@
 I'm a 2nd-year CS Engineering student from India, focused on bridging the gap between robust Full-Stack applications and intelligent AI systems. I don't just write code; I build tools that solve real-world problems.
 
 ### 🚀 What I'm Up To
-- 🎓 **Currently:** Deepening my knowledge in Data Structures, Algorithms, and Statistics.
-- 💻 **Building:** Scalable web tools with the MERN stack and exploring AI agent workflows.
-- 🤖 **Exploring:** Machine learning deployment (like my recent accident detection models).
-- 🤝 **Open Source:** Proud contributor to programs like GSSoC.
+-  **Currently:** Deepening my knowledge in Data Structures, Algorithms, and Statistics.
+-  **Building:** Scalable web tools with the MERN stack and exploring AI agent workflows.
+-  **Exploring:** Machine learning deployment (like my recent accident detection models).
+-  **Open Source:** Proud contributor to programs like GSSoC.
 
 ### 🛠 Tech Stack
 - **Languages:** C++, JavaScript, Python
